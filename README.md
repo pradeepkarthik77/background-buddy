@@ -1,1 +1,2 @@
-# swag-for-devs
+# Background Buddy
+## Background Buddy is a website that uses the Reclaim protocol to generate proof of private github contributions done by employees to showcase it to their peers and for future companies...
